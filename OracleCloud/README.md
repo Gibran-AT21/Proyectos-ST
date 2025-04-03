@@ -33,5 +33,33 @@ En el menú lateral, ve a Compute → Recursos informáticos.
 
 ![Intancia](./Imagenes/o2.png)
 
+### 💻 Configurar la Instancia
+
+* Asignar un Nombre: Especifica un nombre, por ejemplo, mi-servidor.
+
+  ![Intancia](./Imagenes/o3.png)
+
+* Seleccionar el Sistema Operativo: Elige una imagen, como Ubuntu 22.04.
+
+  ![Intancia](./Imagenes/o4.png)
+
+* Definir la Configuración de la Máquina:
+
+* Para la opción gratuita, selecciona "Ampere A1 Compute" o "VM.Standard.E2.1.Micro".
+
+  ![Intancia](./Imagenes/o5.png)
+
+* Si necesitas más potencia, personaliza los recursos según tus necesidades.
+
+Configurar la Red:
+
+![Intancia](./Imagenes/o6.png)
+
+* Si no tienes una red, selecciona "Crear nueva red virtual en la nube".
+
+* Activa la opción de IP pública si deseas acceso remoto.
+
+
+
 
 
