@@ -10,7 +10,7 @@ Este repositorio mostrara todos los temas de este cuatrimestre de la materia de 
 
 ### 🕹️ Tema Oracle Cloud
 
-- **[Proyectos en Oracle Cloud](https://github.com/Akeno075/Proyectos-Clases/blob/main/Oracle%20Cloud/README.md)**: Configuración y administración de servicios en la nube y despliegue de bases de datos.
+- **[Proyectos en Oracle Cloud](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/OracleCloud/)**: Configuración y administración de servicios en la nube y despliegue de bases de datos.
 
 ### 🕹️ Tema Base de Datos
 
