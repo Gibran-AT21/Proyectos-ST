@@ -59,6 +59,22 @@ Configurar la Red:
 
 * Activa la opción de IP pública si deseas acceso remoto.
 
+### 💻 Configurar Claves SSH
+
+En esta sección, puedes generar un par de claves SSH y descargar los archivos correspondientes:
+
+* Finalizando la Configuración
+  
+* No es necesario modificar opciones avanzadas, así que simplemente presiona el botón Crear para iniciar la generación de la VM.
+
+* El proceso de creación comenzará automáticamente y en menos de un minuto la instancia estará disponible.
+
+* Si necesitas conectarte por SSH, usa el siguiente comando en PowerShell:
+
+  ssh-keygen -t rsa -b 4096 -f ~/.ssh/oracle_key
+
+
+![Intancia](./Imagenes/o7.png)
 
 
 
