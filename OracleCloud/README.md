@@ -15,5 +15,23 @@
 
 ![Inicio](./Imagenes/o0.png)
 
+### 💻 Creación de una Instancia en Oracle Cloud
+
+1.- Accede a Oracle Cloud con el nombre de cliente en la nube proporcionado.
+
+2.- Introduce los datos de inicio de sesión de tu cuenta.
+
+![Iiciar cuenta](./Imagenes/o1.png)
+
+### 💻 Iniciar la Creación de la Instancia
+
+En el menú lateral, ve a Compute → Recursos informáticos.
+
+1.- Selecciona Instancia.
+
+2.- Presiona el botón Crear instancia.
+
+![Intancia](./Imagenes/o2.png)
+
 
 
