@@ -10,11 +10,8 @@ Este repositorio mostrara todos los temas de este cuatrimestre de la materia de 
 
 ### 🕹️ Tema Oracle Cloud
 
-- **[Proyectos en Oracle Cloud](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/OracleCloud/)**: Configuración y administración de servicios en la nube y despliegue de bases de datos.
+- **[Proyectos en Oracle Cloud](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/OracleCloud/)**: Configuración y administración de servicios en la nube, linux y de bases de datos.
 
-### 🕹️ Tema Base de Datos
-
-- **[Proyectos en Oracle Cloud](https://github.com/Akeno075/Proyectos-Clases/blob/main/Oracle%20Cloud/README.md)**: Configuración y administración de servicios en la nube y despliegue de bases de datos.
 
 ### 🕹️ Tema ESP32 Datasheet
 
@@ -22,23 +19,18 @@ Este repositorio mostrara todos los temas de este cuatrimestre de la materia de 
 
 ### 🕹️ Tema Bluetooth ESP32
 
-- **[Proyectos en Oracle Cloud](https://github.com/Akeno075/Proyectos-Clases/blob/main/Oracle%20Cloud/README.md)**: Configuración y administración de servicios en la nube y despliegue de bases de datos.
-
+- **[Proyectos Bluetooth](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/ESP32/)**: Aquí se muestran todos los códigos de bluetooth con esp332. 
+  
 ### 🕹️ Tema WIFI ESP32
 
-- **[Proyectos en Oracle Cloud](https://github.com/Akeno075/Proyectos-Clases/blob/main/Oracle%20Cloud/README.md)**: Configuración y administración de servicios en la nube y despliegue de bases de datos.
-
-### 🕹️ Tema sueño profundo ESP32
-
-- **[Proyectos en Oracle Cloud](https://github.com/Akeno075/Proyectos-Clases/blob/main/Oracle%20Cloud/README.md)**: Configuración y administración de servicios en la nube y despliegue de bases de datos.
-
-### 🕹️ Tema PHP y MySQL
-
-- **[Proyectos en Oracle Cloud](https://github.com/Akeno075/Proyectos-Clases/blob/main/Oracle%20Cloud/README.md)**: Configuración y administración de servicios en la nube y despliegue de bases de datos.
+- **[Proyectos en Oracle Cloud](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/ESP32/)**: Aquí se muestran todos los códigos de wifi con esp332.
+  
 
 ### 🕹️ Tema GitHub
 
-- **[Gestión de repositorios](https://github.com/Akeno075/Proyectos-Clases/blob/main/Github/README.md)**: Uso de Git y GitHub para control de versiones, creacion de portafolio de trabajo, colaboración y despliegue de proyectos.
+- **[Gestión de repositorios](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/ESP32/)**: Uso de Git y GitHub, creacion de portafolio de trabajo, paginas web y despliegue de proyectos.
 
+### 🕹️ Tema Base de Datos
 
+- **[Proyectos en Oracle Cloud](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/ESP32/)**: Configuración de bases de datos.
 
