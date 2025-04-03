@@ -74,7 +74,7 @@ En esta sección, puedes generar un par de claves SSH y descargar los archivos c
   ssh-keygen -t rsa -b 4096 -f ~/.ssh/oracle_key
 
 
-![Intancia](./Imagenes/o7.png)
+![Intancia](./Imagenes/07.png)
 
 
 
