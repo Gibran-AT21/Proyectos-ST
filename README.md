@@ -18,7 +18,7 @@ Este repositorio mostrara todos los temas de este cuatrimestre de la materia de 
 
 ### 🕹️ Tema ESP32 Datasheet
 
-- **[ESP32 Información sobre ella]([Nombre del Enlace](https://github.com/Gibran-AT21/GibranProFinalST/blob/main/ESP32-Datasheet-ST)**: Aquí se muestra el datasheet de la esp32 y de sus pines.
+- **[Proyectos en Oracle Cloud](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/ESP32)**: Aquí se muestra el datasheet de la esp32 y de sus pines.
 
 ### 🕹️ Tema Bluetooth ESP32
 
