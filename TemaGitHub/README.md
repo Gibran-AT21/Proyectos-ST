@@ -82,3 +82,13 @@ git push -u origin main
 
 🔹 Usar GitHub Pages para hosting web
 
+## 📽️ Videos para comprender el tema de github
+
+>[VIDEO](https://www.youtubeeducation.com/watch?v=kmm-qNAnZ4w)
+
+>[VIDEO COMO PUBLICAR](https://www.youtubeeducation.com/watch?v=sLTNgxxSBR4)
+
+>[VIDEO CREAR PAGINAS DE GIT HUB](https://www.youtubeeducation.com/watch?v=OZDKNqMXSxA)
+
+>[VIDEO PRIMEROS PASOS](https://www.youtubeeducation.com/watch?v=vlCXdvcgiE0)
+
