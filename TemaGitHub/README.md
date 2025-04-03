@@ -1,6 +1,6 @@
 # 😺  Tema GitHub
 
-https://jvitelli.com/wp-content/uploads/2022/05/github-copilot.jpg
+<img src="https://jvitelli.com/wp-content/uploads/2022/05/github-copilot.jpg" width="500">
 
 ## 📝 Crear una Cuenta en GitHub
 
