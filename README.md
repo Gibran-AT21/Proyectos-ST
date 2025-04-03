@@ -32,5 +32,5 @@ Este repositorio mostrara todos los temas de este cuatrimestre de la materia de 
 
 ### 🕹️ Tema Base de Datos
 
-- **[Proyectos en Oracle Cloud](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/ESP32/)**: Configuración de bases de datos.
+- **[Proyectos en Oracle Cloud](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/TemaBasedeDatos/)**: Configuración de bases de datos.
 
