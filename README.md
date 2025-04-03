@@ -23,7 +23,7 @@ Este repositorio mostrara todos los temas de este cuatrimestre de la materia de 
   
 ### 🕹️ Tema WIFI ESP32
 
-- **[Proyectos en Oracle Cloud](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/ESP32/)**: Aquí se muestran todos los códigos de wifi con esp332.
+- **[Proyectos WIFI](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/WIFIESP32/)**: Aquí se muestran todos los códigos de wifi con esp332.
   
 
 ### 🕹️ Tema GitHub
