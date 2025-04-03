@@ -1,20 +1,84 @@
-# 🌐 Información de la ESP32
+# 😺  Tema GitHub
 
-## 📙 Datasheet de la ESP32
+https://jvitelli.com/wp-content/uploads/2022/05/github-copilot.jpg
 
-Aqui se muesta la información sobre la esp32
+## 📝 Crear una Cuenta en GitHub
 
-<img src="https://naylampmechatronics.com/img/cms/ESP32/ESP32-Pinout.jpg" width="500">
-El ESP32 es un microcontrolador que integra Wi-Fi y Bluetooth, y que se utiliza en aplicaciones como la automatización del hogar y la robótica. 
+1️⃣ Ve a GitHub y haz clic en Sign up (Registrarse).
 
-## GPIOS de la esp32
+2️⃣ Ingresa tu nombre de usuario, correo electrónico y contraseña.
 
-Los GPIOs (General Purpose Input/Output) del ESP32 son pines que pueden usarse como entradas o salidas digitales. Se pueden usar para controlar o leer el estado de un pin específico.
-### Funciones de los GPIOs:
-* Leer el estado de un botón, Hacer parpadear un LED, Encender un relé, Despertar el ESP32 del modo de bajo consumo profundo. 
-* Tipos de GPIOs Digitales, Analógicos, Capacitivos. 
-### Configuración de los GPIOs:
-* Los GPIO analógicos y capacitivos pueden configurarse como GPIO digitales
-* La mayoría de los GPIO digitales pueden configurarse con pull-up o pull-down internos, o con alta impedancia
+3️⃣ Completa el desafío de verificación de seguridad.
 
-<img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/ESP32-DOIT-DEVKIT-V1-Board-Pinout-36-GPIOs-updated.jpg?resize=750%2C538&quality=100&strip=all&ssl=1" width="500">
+4️⃣ Selecciona el plan gratuito (Free) y haz clic en Continuar.
+
+5️⃣ Verifica tu correo electrónico y confirma tu cuenta.
+
+✅ ¡Listo! Ya tienes una cuenta en GitHub.
+
+## 📂 Crear un Repositorio en GitHub
+
+1️⃣ Inicia sesión en GitHub con tu cuenta.
+
+2️⃣ En la esquina superior derecha, haz clic en el botón "+" y selecciona "New repository".
+
+3️⃣ Escribe un nombre para tu repositorio (por ejemplo, mi-proyecto).
+
+4️⃣ Opcionalmente, agrega una descripción.
+
+5️⃣ Elige la visibilidad del repositorio:
+
+Público: Todos pueden verlo.
+
+Privado: Solo tú y los colaboradores pueden verlo.
+
+6️⃣ (Opcional) Marca la casilla "Add a README file" para incluir un archivo de presentación.
+
+7️⃣ Haz clic en "Create repository".
+
+✅ ¡Felicidades! Has creado tu primer repositorio en GitHub.
+
+## 🔗 Subir un Proyecto a GitHub (Desde la Terminal o Git Bash)
+
+Si quieres subir archivos desde tu computadora, sigue estos pasos:
+
+1️⃣ Abre Git Bash (o la terminal en tu sistema).
+
+2️⃣ Configura tu usuario de Git (solo la primera vez):
+
+git config --global user.name "TuNombre"
+
+git config --global user.email "tuemail@example.com"
+
+3️⃣ Clona el repositorio o crea una carpeta nueva y entra en ella:
+
+git clone https://github.com/TU-USUARIO/mi-proyecto.git
+
+cd mi-proyecto
+
+4️⃣ Agrega un archivo (por ejemplo, index.html) y súbelo a GitHub:
+
+echo "<h1>Hola GitHub</h1>" > index.html
+
+git add .
+
+git commit -m "Primer commit"
+
+git branch -M main
+
+git remote add origin https://github.com/TU-USUARIO/mi-proyecto.git
+
+git push -u origin main
+
+✅ ¡Listo! Tu proyecto ya está en GitHub. 🎉
+
+🚀 ¿Qué más puedes hacer en GitHub?
+
+🔹 Clonar repositorios existentes
+
+🔹 Agregar colaboradores
+
+🔹 Crear ramas y gestionar versiones
+
+🔹 Usar GitHub Pages para hosting web
+
