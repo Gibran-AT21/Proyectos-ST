@@ -1,20 +1,34 @@
-# 🌐 Información de la ESP32
+# 🌐 Tema Bluetooth
 
-## 📙 Datasheet de la ESP32
+## 📙 Bluetooth
 
-Aqui se muesta la información sobre la esp32
+La tecnología inalámbrica de corto alcance, Bluetooth, permite que dos dispositivos se conecten directamente sin necesidad de infraestructura de red de respaldo como un enrutador inalámbrico o un punto de acceso. Hoy en día, la tecnología Bluetooth es la más comúnmente usada por las personas de todo el mundo para conectar dispositivos inalámbricos como audífonos, teclados, ratones y altavoces tanto a PCs como a dispositivos móviles.
 
-<img src="https://naylampmechatronics.com/img/cms/ESP32/ESP32-Pinout.jpg" width="500">
-El ESP32 es un microcontrolador que integra Wi-Fi y Bluetooth, y que se utiliza en aplicaciones como la automatización del hogar y la robótica. 
+<img src="https://www.adslzone.net/app/uploads-adslzone.net/2020/02/Bluetooth-2.jpg" width="500">
 
-## GPIOS de la esp32
+### Bluetooth en ESP32
+* El ESP32 soporta Bluetooth Classic y Bluetooth Low Energy (BLE). }
 
-Los GPIOs (General Purpose Input/Output) del ESP32 son pines que pueden usarse como entradas o salidas digitales. Se pueden usar para controlar o leer el estado de un pin específico.
-### Funciones de los GPIOs:
-* Leer el estado de un botón, Hacer parpadear un LED, Encender un relé, Despertar el ESP32 del modo de bajo consumo profundo. 
-* Tipos de GPIOs Digitales, Analógicos, Capacitivos. 
-### Configuración de los GPIOs:
-* Los GPIO analógicos y capacitivos pueden configurarse como GPIO digitales
-* La mayoría de los GPIO digitales pueden configurarse con pull-up o pull-down internos, o con alta impedancia
+* El Bluetooth Classic opera en la banda de 2.4 GHz y permite la transmisión de datos a distancias de hasta 10 metros.
 
-<img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/ESP32-DOIT-DEVKIT-V1-Board-Pinout-36-GPIOs-updated.jpg?resize=750%2C538&quality=100&strip=all&ssl=1" width="500">
+* El rendimiento de la comunicación Bluetooth LE entre placas ESP32 puede alcanzar hasta 700 kbps.
+
+* El uso de Bluetooth es más sencillo en ESP32 con la biblioteca BluetoothSerial con Arduino IDE.
+  
+### Cómo usar Bluetooth con ESP32 
+* Seleccionar la placa y el puerto correctos.
+  
+* Hacer clic en el botón Subir.
+  
+* Activar el Bluetooth en el dispositivo móvil y abrir la aplicación LightBlue.
+
+* En la página de Scan, encontrar ESP32-Bluetooth y hacer clic en CONECTAR.
+  
+* Cuando aparezca «Conectado al dispositivo!», la conexión Bluetooth es exitosa.
+### Usos de Bluetooth con ESP32 
+
+* Controlar el funcionamiento del microcontrolador desde otros dispositivos.
+
+* Enviar y recibir datos a través de Bluetooth.
+
+* Control remoto por Wi-Fi y Bluetooth mediante una aplicación móvil.
