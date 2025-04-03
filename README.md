@@ -19,7 +19,7 @@ Este repositorio mostrara todos los temas de este cuatrimestre de la materia de 
 
 ### 🕹️ Tema Bluetooth ESP32
 
-- **[Proyectos Bluetooth](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/ESP32/)**: Aquí se muestran todos los códigos de bluetooth con esp332. 
+- **[Proyectos Bluetooth](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/TemaBluetooth/)**: Aquí se muestran todos los códigos de bluetooth con esp332. 
   
 ### 🕹️ Tema WIFI ESP32
 
