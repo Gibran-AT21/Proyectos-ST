@@ -1,7 +1,7 @@
 # Sistemas Telematicos 🤖
 ## 🌐Gibrán Alvarado Tovar  IRT 
 
-## Visita mi pagina 
+## Visita mi pagina web
  ### 🛜 [Mi Pagina](https://gibran-at21.github.io/GibranAT21.github.io/)
 
 
