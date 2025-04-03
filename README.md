@@ -28,7 +28,7 @@ Este repositorio mostrara todos los temas de este cuatrimestre de la materia de 
 
 ### 🕹️ Tema GitHub
 
-- **[Gestión de repositorios](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/ESP32/)**: Uso de Git y GitHub, creacion de portafolio de trabajo, paginas web y despliegue de proyectos.
+- **[Gestión de repositorios](https://github.com/Gibran-AT21/Proyectos-ST/blob/main/TemaGitHub/)**: Uso de Git y GitHub, creacion de portafolio de trabajo, paginas web y despliegue de proyectos.
 
 ### 🕹️ Tema Base de Datos
 
